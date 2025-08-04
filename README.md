@@ -1,24 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Guilherme Alves Soares</title>
+</head>
+<body>
 
-<h1 align="center">Hi, I'm Guilherme Alves Soares <br /> </h1>
+  <h1 align="center">Hi, I'm Guilherme Alves Soares <br /> </h1>
 
-<h3 align="center">A curious mind in the world of technology. <br/> </h3>
-<h3 align="center">Guilherme Alves Soares | 21 years old | São Caetano do Sul, SP <br/> </h3>   
+  <h3 align="center">A curious mind in the world of technology. <br/> </h3>
+  <h3 align="center">Guilherme Alves Soares | 21 years old | São Caetano do Sul, SP <br/> </h3>   
 
- 
-<div style="text-align: justify; max-width: 700px; margin: 0 auto;">
-  I seek to develop my technical and analytical skills in the area of Computer Science, applying knowledge acquired in programming, systems development, and data analysis to contribute to innovative solutions in technology companies. I am particularly interested in environments that encourage continuous learning, teamwork, and creative problem-solving. My goal is to collaborate on impactful projects, expand my expertise in software engineering and data-driven decision-making, and stay up-to-date with emerging technologies that shape the future of the tech industry.
-</div>
-<br/>
+  <div style="text-align: justify; max-width: 700px; margin: 0 auto;">
+    I seek to develop my technical and analytical skills in the area of Computer Science, applying knowledge acquired in programming, systems development, and data analysis to contribute to innovative solutions in technology companies. I am particularly interested in environments that encourage continuous learning, teamwork, and creative problem-solving. My goal is to collaborate on impactful projects, expand my expertise in software engineering and data-driven decision-making, and stay up-to-date with emerging technologies that shape the future of the tech industry.
+  </div>
 
-- I’m currently studying Computer Science (CIC) at the Institute Mauá of Technology (IMT)
+  <br/>
 
-- Feel free to contact me
-<br/>
-<br/>
+  - I’m currently studying Computer Science (CIC) at the Institute Mauá of Technology (IMT)
 
-<h1 align="center">Programming Languages and Technologies <br /> </h1>
+  - Feel free to contact me
+  <br/>
+  <br/>
 
-<div align = "center"style="display: inline_block"><br>
+  <h1 align="center">Programming Languages and Technologies <br /> </h1>
+
+  <div align="center" style="display: inline_block"><br>
     <img 
         align="center" 
         alt="Java"
@@ -91,18 +98,20 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
-</div>
-<br/>
-<br/>
+  </div>
+  <br/>
+  <br/>
 
-<h1 align="center"> Statistics <h1/>
+  <h1 align="center"> Statistics </h1>
 
-
-<div align="center">
+  <div align="center">
     <img 
         align="center" 
         alt="GitHub Stats" 
         height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAlvSoares&theme=gruvbox&layout=compact&custom_title=Most Used Languages&langs_count=9" 
     />
-</div>
+  </div>
+
+</body>
+</html>
