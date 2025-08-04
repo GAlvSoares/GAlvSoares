@@ -5,11 +5,11 @@
 <h3 align="center">Guilherme Alves Soares | 21 years old | São Caetano do Sul, SP <br/> </h3>   
 
  
-I seek to develop my technical and analytical skills in the area of ​​Computer Science, applying knowledge acquired in programming, systems development and data analysis to contribute to innovative solutions in technology companies. 
+I seek to develop my technical and analytical skills in the area of Computer Science, applying knowledge acquired in programming, systems development, and data analysis to contribute to innovative solutions in technology companies.
+I am particularly interested in environments that encourage continuous learning, teamwork, and creative problem-solving. My goal is to collaborate on impactful projects, expand my expertise in software engineering and data-driven decision-making, and stay up-to-date with emerging technologies that shape the future of the tech industry.
 
 - I’m currently studying Computer Science (CIC) at the Institute Mauá of Technology (IMT)
 - Feel free to contact me
-<br/>
 <br/>
 
 <h1 align="center">Programming Languages and Technologies <br /> </h1>
@@ -88,7 +88,6 @@ I seek to develop my technical and analytical skills in the area of ​​Comput
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
 </div>
-<br/>
 <br/>
 
 <h1 align="center"> Statistics <h1/>
