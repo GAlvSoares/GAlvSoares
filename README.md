@@ -14,7 +14,6 @@
 
 - Feel free to contact me
 <br/>
-<br/>
 
 <h1 align="center">Programming Languages and Technologies <br /> </h1>
 
@@ -92,7 +91,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
 </div>
-<br/>
 <br/>
 
 <h1 align="center"> Statistics <h1/>
