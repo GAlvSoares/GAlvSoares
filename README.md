@@ -76,6 +76,14 @@
     />
     <img 
         align="center" 
+        alt="TypeScript" 
+        title="TypeScript"
+        width="40px" 
+        style="padding-right: 10px;" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        align="center" 
         alt="R" 
         title="R"
         width="40px" 
@@ -101,7 +109,7 @@
         align="center" 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dark&layout=donut&custom_title=Technologies&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAlvSoares&theme=dark&layout=donut&custom_title=Technologies and Languages&langs_count=9" 
     />
 
 </p>
