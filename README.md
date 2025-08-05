@@ -95,12 +95,13 @@
 
 <h1 align="center"> Statistics <h1/>
 
-
 <div align="center">
+    <p>
     <img 
         align="center" 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAlvSoares&theme=gruvbox&layout=compact&custom_title=Most Used Languages&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dark&layout=donut&custom_title=Technologies&langs_count=9" 
     />
-</div>
+
+</p>
