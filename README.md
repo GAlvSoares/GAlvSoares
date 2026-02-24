@@ -109,11 +109,16 @@
 </div>
 <br/>
 
-<h1 align="center"> Statistics </h1>
-<div align="center" >
-    <img 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAlvSoares&theme=dark&layout=donut&custom_title=Technologies&langs_count=9"  
-    />
+<h1 align="center">Statistics</h1>
+
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=GAlvSoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAlvSoares&layout=compact&theme=dark"
+  />
 </div>
